@@ -15,7 +15,7 @@
 
 <!---
 easy-zzz/easy-zzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Вы можете перейти по ссылке предварительного просмотра, чтобы ознакомиться с вашими изменениями.
 --->
 [[20221128102946 Index]]
 
