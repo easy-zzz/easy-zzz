@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "obsidian-git:init-repo",
+    "editor:insert-callout",
+    "obsidian-git:clone-repo"
+  ]
+}

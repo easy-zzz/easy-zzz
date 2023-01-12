@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1a22377316b119a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce9a13a7e21313dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41161aae07cde9e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templater.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "b755984fe7681226"
+          }
+        ]
+      },
+      {
+        "id": "2daf3d21e0786ea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09bd18559322ed2d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Templater.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "b755984fe7681226"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c03c5fd8021c4c97",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "76230cf7ff0d6335",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9e2fb92eaea60ac2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#obsidian",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8d96d8e18a936c7e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "cfbbee743e46f6c9",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "eac7d5e00c222ef1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "26abed4fec1d4245",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Templater.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1b842c8f7d263c24",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Templater.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5e9c7c6805066bcd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Templater.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "41161aae07cde9e8",
+  "lastOpenFiles": [
+    "docs/CodeTour.md",
+    "README.md",
+    "Templater.md",
+    "06.01.2023 03:38:23 tmux command man page | ManKier.md"
+  ]
+}
