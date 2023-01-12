@@ -11,8 +11,12 @@
             "id": "41161aae07cde9e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "oabsidion/Templater.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "b755984fe7681226"
           }
@@ -28,6 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "oabsidion/Templater.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,6 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "oabsidion/Templater.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,6 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "oabsidion/Templater.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,11 +156,13 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "oabsidion/Templater.md"
+          }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "active": "41161aae07cde9e8",
   "lastOpenFiles": [
