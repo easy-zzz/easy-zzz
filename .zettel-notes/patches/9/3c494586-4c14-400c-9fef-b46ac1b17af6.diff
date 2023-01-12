@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -869,1 +869,1 @@
+-Note that instead of outputting directly to the console, as we did earlier, a user script needs to `return` its output:
++Обратите внимание, что вместо вывода непосредственно на консоль, как мы делали ранее, пользовательский скрипт должен `return` свой вывод:

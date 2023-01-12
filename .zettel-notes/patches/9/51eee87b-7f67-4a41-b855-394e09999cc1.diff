@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -1064,1 +1064,1 @@
+-In our example, to fix our template to remove the blank lines, we would use the following template (notice the dashes `-` at the end of the tags), to remove the blank newlines **after** the execution commands:
++В нашем примере, чтобы исправить наш шаблон для удаления пустых строк, мы бы использовали следующий шаблон (обратите внимание на тире `-` в конце тегов), чтобы удалить пустые новые строки **после** команд выполнения:

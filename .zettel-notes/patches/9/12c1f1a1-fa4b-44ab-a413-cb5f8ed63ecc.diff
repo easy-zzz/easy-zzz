@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -859,1 +859,1 @@
+-Templater will load all JavaScript (`.js` files) scripts in the `Scripts` folder.
++Templater загрузит все скрипты JavaScript (файлы `.js`) в папку `Scripts`.

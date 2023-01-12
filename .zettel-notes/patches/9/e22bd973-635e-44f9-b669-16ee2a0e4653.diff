@@ -1,0 +1,8 @@
+--- old
++++ new
+@@ -877,1 +877,1 @@
+-    <% tp.user.my_script("Hello World!") %>
++    <% tp.user.my_script("Привет, мир!") %>
+@@ -879,1 +879,1 @@
+-Which would print `Message from my script: Hello World!` in the console.
++Который напечатал бы "Сообщение из моего скрипта: Привет, мир!` в консоли.

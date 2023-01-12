@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -1059,1 +1059,1 @@
+-* An underscore `_` at the **beginning** of a tag (`<%_`) will trim **all** whitespace **before** the command
++* Подчеркивание `_` в **начале** тега (`<%_`) приведет к обрезке **всех** пробелов **перед** командой

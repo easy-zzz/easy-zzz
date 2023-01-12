@@ -1,0 +1,22 @@
+--- old
++++ new
+@@ -8,7 +8,0 @@
+-Skip to content  
+-Search for:  
+-* [](https://www.pinterest.com/likegeeks/)
+-* [](https://www.youtube.com/channel/UC9g6sApRZ3Vib6vROG5YPaA)
+-* [](https://twitter.com/likegeeks)
+-* [](https://www.facebook.com/likegeeks)  
+-[![20 Main Linux commands that you will need daily - Like Geeks](https://likegeeks.com/wp-content/uploads/2020/12/logo.png)](https://likegeeks.com/)
+@@ -16,8 +9,0 @@
+-[](https://likegeeks.com/)  
+-Menu  
+-* [Home](https://likegeeks.com/ "Home")
+-* [Linux](https://likegeeks.com/linux/)
+-* [Server Administration](https://likegeeks.com/server-administration/)
+-* [Web Development](https://likegeeks.com/web-development/)
+-* [Python](https://likegeeks.com/python/)  
+-[Linux](https://likegeeks.com/linux/)
+@@ -26,1 +11,1 @@
+-===============================================
++========================================

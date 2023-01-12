@@ -1,0 +1,6 @@
+--- old
++++ new
+@@ -1047,1 +1047,2 @@
+-Will produce the following output if the condition is false (the same happens when it's true), notice the blank lines:
++    
++Выдаст следующий вывод, если условие равно false (то же самое происходит, когда оно true), обратите внимание на пустые строки:

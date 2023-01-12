@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -1057,1 +1057,1 @@
+-A specific syntax exists for whitespace control:
++Для управления пробелами существует определенный синтаксис:

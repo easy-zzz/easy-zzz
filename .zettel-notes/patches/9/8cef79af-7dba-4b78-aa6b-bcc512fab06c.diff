@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -863,1 +863,1 @@
+-You will then be able to call your scripts as user functions. The function name corresponds to the script file name.
++Затем вы сможете вызывать свои скрипты как пользовательские функции. Имя функции соответствует имени файла скрипта.

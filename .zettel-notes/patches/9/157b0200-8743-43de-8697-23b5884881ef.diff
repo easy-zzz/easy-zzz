@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -857,1 +857,1 @@
+-Let's say you specified the `Scripts` folder as your script folder in Templater's settings.
++Допустим, вы указали папку `Scripts` в качестве папки вашего скрипта в настройках Templater.

@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -1061,1 +1061,1 @@
+-* A dash `-` at the **beginning** of a tag (`<%-`) will trim **one** newline **before** the command
++* Тире `-` в **начале** тега (`<%-`) обрезает **одну** новую строку **перед** командой

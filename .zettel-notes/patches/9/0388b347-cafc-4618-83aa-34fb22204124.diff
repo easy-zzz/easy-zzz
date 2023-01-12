@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -1055,1 +1055,1 @@
+-You may want to remove the blank lines produced by the **execution commands**, that do not produce any output.
++Возможно, вы захотите удалить пустые строки, созданные **execution commands**, которые не выдают никаких выходных данных.

@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -865,1 +865,1 @@
+-Scripts should follow the [CommonJS module specification](https://flaviocopes.com/commonjs/), and export a single function.
++Скрипты должны соответствовать [спецификации модуля CommonJS](https://flaviocopes.com/commonjs /) и экспортируйте одну функцию.

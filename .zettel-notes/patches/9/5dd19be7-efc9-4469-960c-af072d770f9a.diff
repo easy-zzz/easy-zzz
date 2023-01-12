@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -1060,1 +1060,1 @@
+-* An underscore `_` at the **end** of a tag (`_%>`) will trim **all** whitespace **after** the command
++* Подчеркивание `_` в **конце** тега (`_%>`) приведет к обрезке **всех** пробелов **после** команды

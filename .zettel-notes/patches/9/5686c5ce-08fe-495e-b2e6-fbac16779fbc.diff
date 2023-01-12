@@ -1,0 +1,59 @@
+--- old
++++ new
+@@ -35,6 +35,0 @@
+-* Light (default)
+-* Rust
+-* Coal
+-* Navy
+-* Ayu
+-
+@@ -47,1 +41,1 @@
+-[Templater](https://github.com/SilentVoid13/Templater) is a template language that lets you insert **variables** and **functions** results into your notes. It will also let you execute JavaScript code manipulating those variables and functions.
++[Templater](https://github.com/SilentVoid13/Templater) — это язык шаблонов, который позволяет вставлять **переменные** и **функции** результаты в ваши заметки. Это также позволит вам выполнять код JavaScript, управляющий этими переменными и функциями.
+@@ -49,1 +43,1 @@
+-With [Templater](https://github.com/SilentVoid13/Templater), you will be able to create powerful templates to automate manual tasks.
++С [Templater](https://github.com/SilentVoid13/Templater) вы сможете создавать мощные шаблоны для автоматизации ручных задач.
+@@ -54,1 +48,1 @@
+-The following template file, that is using [Templater](https://github.com/SilentVoid13/Templater) syntax:
++Следующий файл шаблона, использующий синтаксис [Templater](https://github.com/SilentVoid13/Templater):
+@@ -66,1 +60,1 @@
+-Will produce the following result when inserted:
++При вставке будет получен следующий результат:
+@@ -79,0 +73,1 @@
++
+@@ -82,1 +77,1 @@
+-You can install this plugin via the Community Plugins tab within Obsidian. Search for "Templater".
++Вы можете установить этот плагин через вкладку «Плагины сообщества» в Obsidian. Искать "Templater".
+@@ -84,1 +79,1 @@
+-It's a good practice to restart the obsidian app after the installation of [Templater](https://github.com/SilentVoid13/Templater), to make sure everything is working properly.  
++Хорошей практикой является перезапуск приложения obsidian после установки [Templater](https://github.com/SilentVoid13/Templater), чтобы убедиться, что все работает правильно.  
+@@ -89,1 +84,1 @@
+-To understand how [Templater](https://github.com/SilentVoid13/Templater) works, let's define a few terms:
++Чтобы понять, как [Templater](https://github.com/SilentVoid13/Templater) работает, давайте определим несколько терминов:
+@@ -91,3 +86,3 @@
+-* A **template** is a file that contains **commands**.
+-* A text snippet that starts with an opening tag `<%`, ends with a closing tag `%>` is what we will call a **command**.
+-* A **function** is an object that we can invoke inside a **command** and that returns a value (the replacement string)
++* **Шаблон** — это файл, содержащий **команды**.
++* Фрагмент текста, который начинается с открывающего тега `<%` и заканчивается закрывающим тегом `%>`, мы будем называть **командой**.
++* **Функция** — это объект, который мы можем вызвать внутри **команды** и который возвращает значение (строку замены)
+@@ -95,1 +90,1 @@
+-There are two types of functions you can use:
++Вы можете использовать два типа функций:
+@@ -97,2 +92,2 @@
+-* Internal functions. They are **predefined** functions that are built within the plugin. As an example, `tp.date.now` is an internal function that will return the current date.
+-* User functions. Users can define their own functions. They are either system command or user scripts.
++* Внутренние функции. Это **предопределенные** функции, встроенные в плагин. Например, `tp.date.now` — это внутренняя функция, которая возвращает текущую дату.
++* Пользовательские функции. Пользователи могут определять свои собственные функции. Это либо системные команды, либо пользовательские сценарии.
+@@ -102,1 +97,1 @@
+-The following template contains 2 commands, calling 2 different internal functions:
++Следующий шаблон содержит 2 команды, вызывающие 2 разные внутренние функции:
+@@ -106,1 +101,1 @@
+-We'll see in the next part the syntax required to write some commands.  
++В следующей части мы увидим синтаксис, необходимый для написания некоторых команд.  
+@@ -111,1 +106,1 @@
+-[Templater](https://github.com/SilentVoid13/Templater) uses a custom templating engine ([rusty_engine](https://github.com/SilentVoid13/Templater)) syntax to declare a command. You may need a bit of time to get used to it, but once you get the idea, the syntax is not that hard.
++[Templater](https://github.com/SilentVoid13/Templater) использует пользовательский синтаксис механизма шаблонов ([rusty_engine](https://github.com/SilentVoid13/Templater)) для объявления команды. Вам может понадобиться немного времени, чтобы привыкнуть к нему, но как только вы поймете, синтаксис не так уж и сложен.
+@@ -113,1 +108,1 @@
+-All of Templater's functions are JavaScript objects that are invoked using a **command**.
++Все функции Templater — это объекты JavaScript, которые вызываются с помощью **команды**.

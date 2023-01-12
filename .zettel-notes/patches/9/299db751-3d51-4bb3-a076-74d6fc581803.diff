@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -1037,1 +1037,1 @@
+-It can sometimes be useful to have some whitespace control after commands are inserted, which is exactly what this command utility offers.
++Иногда может быть полезно иметь некоторый контроль пробелов после вставки команд, что именно то, что предлагает эта командная утилита.

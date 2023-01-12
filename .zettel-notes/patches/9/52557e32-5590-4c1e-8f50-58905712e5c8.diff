@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -861,1 +861,1 @@
+-You can then create your script named `Scripts/my_script.js` (The `.js` extension is required) for example.
++Затем вы можете создать свой скрипт с именем `Scripts/my_script.js ` (Требуется расширение `.js'), например.
