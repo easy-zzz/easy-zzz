@@ -1,35 +1,35 @@
 # CodeTour 🗺️
 
-CodeTour is a Visual Studio Code extension, which allows you to record and play back guided walkthroughs of your codebases. It's like a table of contents, that can make it easier to onboard (or re-board!) to a new project/feature area, visualize bug reports, or understand the context of a code review/PR change. A "code tour" is simply a series of interactive steps, each of which are associated with a specific directory, or file/line, and include a description of the respective code. This allows developers to clone a repo, and then immediately start **learning it**, without needing to refer to a `CONTRIBUTING.md` file and/or rely on help from others. Tours can either be checked into a repo, to enable sharing with other contributors, or [exported](#exporting-tours) to a "tour file", which allows anyone to replay the same tour, without having to clone any code to do it!
+Codetour - это расширение кода Visual Studio, которое позволяет записывать и воспроизводить пошаговые инструкции ваших кодовых баз. Это похоже на содержание, которое может облегчить на борту (или повторное бортование!) В новую область проекта/функции, визуализировать отчеты об ошибках или понять контекст обзора кода/PR. «Кодовой тур» - это просто серия интерактивных шагов, каждый из которых связан с конкретным каталогом или файлом/строкой, и включает описание соответствующего кода. Это позволяет разработчикам клонировать репо, а затем немедленно начинать **изучать его**, без необходимости ссылаться на файл `Appling.md` и/или полагаться на помощь других. Туры можно либо зарегистрировать в репо, чтобы позволить обмене с другими участниками, либо [экспортируется](#exporting-tours) в «Файл тура», который позволяет любому воспроизвести один и тот же тур, без необходимости клонировать какой -либо код, чтобы сделать это!
 
 <img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
 
 ## Getting Started
 
-In order to get started, install the [CodeTour extension](https://aka.ms/codetour), and then following one of the following guides, depending on whether you want to record or play back a tour:
+Чтобы начать, установите [Extension [Codeour](https://aka.ms/codetour), а затем следуя одному из следующих руководств, в зависимости от того, хотите ли вы записать или отыграть тур:
 
-- [Recording Tours](#recording-tours)
-- [Exporting Tours](#exporting-tours)
-- [Starting Tours](#starting-tours)
-- [Navigating Tours](#navigating-tours)
-- [Maintaining Tours](#maintaining-tours)
-- [Reference](#reference)
+- [Записывающие туры](#recording-tours)
+- [Экспорт туров](#exporting-tours)
+- [Стартовые туры](#starting-tours)
+- [Навигационные туры](#navigating-tours)
+- [Поддержание туров](#maintaining-tours)
+- [Ссылка](#reference)
 
 ## Recording Tours
 
-If you'd like to record a code tour for your codebase, you can simply click the `+` button in the `CodeTour` tree view (if it's visible) and/or run the `CodeTour: Record Tour` command. This will start the tour recorder, which allows you to begin opening files, clicking the "comment bar" for the line you want to annotate, and then adding the respective description (including markdown!). Add as many steps as you want, and then when done, simply click the stop tour action (the red square button). You can also create [directory steps](#directory-steps), [selection steps](#text-selection), or [content steps](#content-steps) in order to add an introductory or intermediate explanations to a tour.
+Если вы хотите записать кодовый тур для своей кодовой базы, вы можете просто нажать кнопку `+` в представлении дерева `CodeTour` (если она видно) и/или запустить команду `CodeTour: Record Tour`. Это запустит регистратор тура, который позволяет вам начать открывать файлы, щелкнув «Бар комментариев» для линии, которую вы хотите аннотировать, а затем добавив соответствующее описание (включая Markdown!).Добавьте столько шагов, сколько захотите, а затем, когда закончите, просто нажмите `Стоп -тур` (кнопка `Красная квадрата`). Вы также можете создать [каталог шагов](#directory-steps), [Шаги отбора](#text-selection), или [Контент шаги](#content-steps) Чтобы добавить вступительные или промежуточные объяснения тура.
 
-While you're recording, the `CodeTour` [tree view](#tree-view) will display the currently recorded tour, and it's current set of steps. You can tell which tour is being recorded because it will have a microphone icon to the left of its name.
+Пока вы записываете, `CodeTour` [в виде дерева](#tree-view) будет отображать в настоящее время записанный тур, и его текущий набор шагов. Вы можете сказать, какой тур записывается, потому что у него будет значок микрофона слева от его названия.
 
 <img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
 
-If you need to edit or delete a step while recording, click the `...` menu next to the step's description, and select the appropriate action. Alternatively, you can edit/delete steps from the CodeTour [tree view](#tree-view).
+Если вам нужно отредактировать или удалить шаг во время записи, нажмите `...` Меню рядом с описанием шага и выберите соответствующее действие. В качестве альтернативы, вы можете редактировать/удалить шаги от CodeTour [в виде дерева](#tree-view).
 
 <img width="500px" src="https://user-images.githubusercontent.com/116461/76168548-1f50cb80-612e-11ea-9aca-8598b9e1c730.png" />
 
 ### Workspaces
 
-If you record a tour within a "multi-root workspace", you'll be asked to select the folder that you'd like to save the tour to. This is necessary because tours are written as [files](#tour-files) to your workspace, and so we need to disambiguate which folder the tour should be persisted to. That said, when you're recording a tour, you can add steps that span any of the folders within the workspace, which allows you to create tours for a specific folder and/or that demonstrate concepts across multiple folders within the workspace.
+Если вы запишите тур в «многоуровневом рабочем пространстве», вам попросят выбрать папку, в которую вы хотели бы сохранить тур. Это необходимо, потому что туры написаны как [файлы] (#тур-личные) в ваше рабочее пространство, и поэтому нам нужно усадить, какую папку следует сохранять тур.Тем не менее, когда вы записываете тур, вы можете добавить шаги, которые охватывают любые папки в рабочей области, что позволяет создавать туры для определенной папки и/или, которые демонстрируют концепции в нескольких папках в рабочей области.
 
 ### Step Titles
 
