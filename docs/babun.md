@@ -30,7 +30,7 @@ video::95045348[vimeo, width=827, height=465, align="center"]
 ## Installation
 
 Просто скачайте файл dist с http://babun.github.io , распакуйте его и запустите скрипт install.bat. Через несколько минут babun запускается автоматически.
-The application will be installed to the `%USER_HOME%\.babun` directory. Use the '/target' option to install babun to a custom directory.
+Приложение будет установлено в каталог `%USER_HOME%\.babun`. Используйте опцию '/target', чтобы установить babun в пользовательский каталог.
 
 NOTE: There is no interference with existing Cygwin installation
 

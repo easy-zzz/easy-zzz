@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/babun.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -164,7 +164,7 @@
     ],
     "currentTab": 2
   },
-  "active": "5e9c7c6805066bcd",
+  "active": "41161aae07cde9e8",
   "lastOpenFiles": [
     "docs/vs-code/GistPad.md",
     "docs/android/zettel.md",
