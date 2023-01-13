@@ -123,7 +123,7 @@ Babun features an silent command-line installation script that may be executed w
 
 ## Using babun
 
-=== Setting up proxy
+### Setting up proxy
 To setup proxy uncomment following lines in the `.babunrc` file `(%USER_HOME%\.babun\cygwin\home\USER\.babunrc)`
 ----
 # Uncomment this lines to set up your proxy
