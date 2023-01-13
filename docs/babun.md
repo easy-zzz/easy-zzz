@@ -58,13 +58,13 @@ image::https://raw.githubusercontent.com/babun/babun.github.io/master/images/scr
 
 Do you like it? Follow babun on Twitter https://twitter.com/babunshell[@babunshell] or https://twitter.com/tombujok[@tombujok].
 
-== Features in 3 minutes
+## Features in 3 minutes
 
-=== Cygwin
+### Cygwin
 
 The core of Babun consists of a pre-configured Cygwin. Cygwin is a great tool, but there's a lot of quirks and tricks that makes you lose a lot of time to make it actually 'usable'. Not only does babun solve most of these problems, but also contains a lot of vital packages, so that you can be productive from the very first minute. 
 
-=== Package manager
+Package manager
 
 Babun provides a package manager called `pact`. It is similar to 'apt-get' or 'yum'. Pact enables installing/searching/upgrading and deinstalling cygwin packages with no hassle at all. Just invoke `pact --help` to check how to use it.
 
