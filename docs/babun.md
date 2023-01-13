@@ -32,7 +32,7 @@ video::95045348[vimeo, width=827, height=465, align="center"]
 Просто скачайте файл dist с http://babun.github.io , распакуйте его и запустите скрипт install.bat. Через несколько минут babun запускается автоматически.
 Приложение будет установлено в каталог `%USER_HOME%\.babun`. Используйте опцию '/target', чтобы установить babun в пользовательский каталог.
 
-NOTE: There is no interference with existing Cygwin installation
+NOTE: Нет никаких помех существующей установке Cygwin
 
 NOTE: You may have "whitespace" chars in your username - it is not recommended by Cygwin though http://cygwin.com/faq.html#faq.setup.name-with-space[FAQ]
 
