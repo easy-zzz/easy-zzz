@@ -1,6 +1,6 @@
-= Babun - a windows shell you will love
+# Babun - оболочка Windows, которая вам понравится
 
-Would you like to use a linux-like console on a Windows host without a lot of fuzz? Try out babun!
+Хотели бы вы использовать консоль, подобную Linux, на хосте Windows без особых сложностей? Попробуй бабуна!
 // THIS DOCUMENT WAS GENERATED. DO NOT EDIT IT.\n
 // THIS DOCUMENT WAS GENERATED. DO NOT EDIT IT.\n
 // THIS DOCUMENT WAS GENERATED. DO NOT EDIT IT.\n
