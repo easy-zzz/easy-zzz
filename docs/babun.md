@@ -98,7 +98,7 @@ Babun provides many packages, convenience tools and scripts that make your life 
 * oh-my-zsh
 * custom scripts (pbcopy, pbpaste, babun, etc.)
 
-=== Plugin architecture
+### Plugin architecture
 
 Babun has a very small microkernel (cygwin, a couple of bash scripts and a bit of a convention) and a plugin architecture on the top of it. It means that almost everything is a plugin in the babun's world! Not only does it structure babun in a clean way, but also enables others to contribute small chunks of code. Currently, babun comprises the following plugins:
 
@@ -111,17 +111,17 @@ Babun has a very small microkernel (cygwin, a couple of bash scripts and a bit o
 * dist
 * shell
 
-=== Auto-update
+### Auto-update
 
 Self-update is at the very heart of babun! Many Cygwin tools are simple bash scripts - once you install them there is no chance of getting the newer version in a smooth way. You either delete the older version or overwrite it with the newest one losing all the changes you have made in between.
 
 Babun contains an auto-update feature which enables updating both the microkernel, the plugins and even the underlying cygwin. Files located in your home folder will never be deleted nor overwritten which preserves your local config and customizations.
 
-=== Installer
+### Installer
 
 Babun features an silent command-line installation script that may be executed without admin rights on any Windows hosts.
 
-== Using babun
+## Using babun
 
 === Setting up proxy
 To setup proxy uncomment following lines in the `.babunrc` file `(%USER_HOME%\.babun\cygwin\home\USER\.babunrc)`
