@@ -64,11 +64,11 @@ Do you like it? Follow babun on Twitter https://twitter.com/babunshell[@babunshe
 
 The core of Babun consists of a pre-configured Cygwin. Cygwin is a great tool, but there's a lot of quirks and tricks that makes you lose a lot of time to make it actually 'usable'. Not only does babun solve most of these problems, but also contains a lot of vital packages, so that you can be productive from the very first minute. 
 
-Package manager
+### Package manager
 
 Babun provides a package manager called `pact`. It is similar to 'apt-get' or 'yum'. Pact enables installing/searching/upgrading and deinstalling cygwin packages with no hassle at all. Just invoke `pact --help` to check how to use it.
 
-=== Shell
+### Shell
 
 Babun's shell is tweaked in order to provide the best possible user-experience. There are two shell types that are pre-configured and available right away - bash and zsh (zsh is the default one). Babun's shell features:
 
@@ -79,15 +79,15 @@ Babun's shell is tweaked in order to provide the best possible user-experience. 
 * custom scripts and aliases
 * and much more!
 
-=== Console
+### Console
 
 Mintty is the console used in babun. It features an `xterm-256` mode, nice fonts and simply looks great!
 
-=== Proxying
+### Proxying
 
 Babun supports HTTP proxying out of the box. Just add the address and the credentials of your HTTP proxy server to the `.babunrc` file located in your home folder and execute `source .babunrc` to enable HTTP proxying. SOCKS proxies are not supported for now.
 
-=== Developer tools
+### Developer tools
 
 Babun provides many packages, convenience tools and scripts that make your life much easier. The long list of features includes:
 
