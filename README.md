@@ -24,4 +24,4 @@ easy-zzz/easy-zzz является " специальным " хранилище
 
 #### Содержание
 
-[CodeTour](docs/CodeTour.md)
+[CodeTour](CodeTour.md)
