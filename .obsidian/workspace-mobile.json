@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/android/zettel.md",
+                "file": "docs/vs-code/GistPad.md",
                 "mode": "preview",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/android/zettel.md",
+                "file": "docs/vs-code/GistPad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/android/zettel.md",
+            "file": "docs/vs-code/GistPad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/android/zettel.md",
+            "file": "docs/vs-code/GistPad.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/android/zettel.md"
+            "file": "docs/vs-code/GistPad.md"
           }
         }
       }
@@ -166,8 +166,8 @@
   },
   "active": "41161aae07cde9e8",
   "lastOpenFiles": [
-    "docs/ubuntu/Node.js_i_Ubuntu.md",
     "docs/android/zettel.md",
+    "docs/ubuntu/Node.js_i_Ubuntu.md",
     "docs/vs-code/CodeTour.md",
     "README.md",
     "06.01.2023 08:05:13 .md",
