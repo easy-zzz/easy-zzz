@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Node.js_i_Ubuntu.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Node.js_i_Ubuntu.md",
+                "file": "docs/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Node.js_i_Ubuntu.md",
+            "file": "docs/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Node.js_i_Ubuntu.md",
+            "file": "docs/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/Node.js_i_Ubuntu.md"
+            "file": "docs/index.md"
           }
         }
       }
@@ -166,6 +166,7 @@
   },
   "active": "41161aae07cde9e8",
   "lastOpenFiles": [
+    "docs/ubuntu/Node.js_i_Ubuntu.md",
     "docs/index.md",
     "docs/vs-code/CodeTour.md",
     "README.md",
@@ -174,7 +175,6 @@
     "06.01.2023 03:38:23 tmux command man page | ManKier.md",
     "oabsidion/Templater.md",
     "Без названия.md",
-    "docs/Node.js_i_Ubuntu.md",
     "06.01.2023 07:49:29 .md"
   ]
 }
