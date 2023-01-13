@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -27,1 +27,1 @@
+-[CodeTour](docs/CodeTour.md)
++[CodeTour](CodeTour.md)
