@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/babun.md",
-                "mode": "preview",
+                "file": "kks/tb/Без названия.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/babun.md",
+                "file": "kks/tb/Без названия.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/babun.md",
+            "file": "kks/tb/Без названия.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/babun.md",
+            "file": "kks/tb/Без названия.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/babun.md"
+            "file": "kks/tb/Без названия.md"
           }
         }
       }
@@ -166,6 +166,7 @@
   },
   "active": "41161aae07cde9e8",
   "lastOpenFiles": [
+    "docs/babun.md",
     "docs/vs-code/GistPad.md",
     "docs/android/zettel.md",
     "docs/ubuntu/Node.js_i_Ubuntu.md",
@@ -174,7 +175,6 @@
     "06.01.2023 08:05:13 .md",
     "06.01.2023 07:27:13 .md",
     "06.01.2023 03:38:23 tmux command man page | ManKier.md",
-    "oabsidion/Templater.md",
-    "Без названия.md"
+    "oabsidion/Templater.md"
   ]
 }
