@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ce9a13a7e21313dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "41161aae07cde9e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kks/tb/техника безопасности.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "b755984fe7681226"
-          }
-        ]
-      },
-      {
         "id": "2daf3d21e0786ea1",
         "type": "tabs",
         "children": [
@@ -32,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kks/tb/техника безопасности.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +30,7 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
@@ -59,8 +39,7 @@
                   "close": false
                 }
               }
-            },
-            "group": "b755984fe7681226"
+            }
           }
         ]
       }
@@ -128,7 +107,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "kks/tb/техника безопасности.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +123,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "kks/tb/техника безопасности.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -156,16 +133,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "kks/tb/техника безопасности.md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "41161aae07cde9e8",
+  "active": "09bd18559322ed2d",
   "lastOpenFiles": [
+    "kks/tb/Без названия.md",
+    "kks/tb/техника безопасности.md",
     "docs/babun.md",
     "docs/vs-code/GistPad.md",
     "docs/android/zettel.md",
@@ -173,8 +150,6 @@
     "docs/vs-code/CodeTour.md",
     "README.md",
     "06.01.2023 08:05:13 .md",
-    "06.01.2023 07:27:13 .md",
-    "06.01.2023 03:38:23 tmux command man page | ManKier.md",
-    "oabsidion/Templater.md"
+    "06.01.2023 07:27:13 .md"
   ]
 }
