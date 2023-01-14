@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kks/index.md",
+                "file": "kks/index .md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,8 +48,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kks/index.md",
-                "mode": "source",
+                "file": "kks/index .md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -121,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "kks/index.md",
+            "file": "kks/index .md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "kks/index.md",
+            "file": "kks/index .md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -150,18 +150,18 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "kks/index.md"
+            "file": "kks/index .md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "77bb0fce9c009e83",
+  "active": "76230cf7ff0d6335",
   "lastOpenFiles": [
+    "kks/index.md",
     "kks/tb/техника безопасности.md",
     "kks/index .md",
-    "kks/index.md",
     "06.01.2023 07:27:13 .md",
     "obsidian/Templater.md",
     "kks/tb/Без названия.md",
