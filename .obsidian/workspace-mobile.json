@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kks/tb/Без названия.md",
+                "file": "kks/tb/техника безопасности.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kks/tb/Без названия.md",
+                "file": "kks/tb/техника безопасности.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "kks/tb/Без названия.md",
+            "file": "kks/tb/техника безопасности.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "kks/tb/Без названия.md",
+            "file": "kks/tb/техника безопасности.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "kks/tb/Без названия.md"
+            "file": "kks/tb/техника безопасности.md"
           }
         }
       }
