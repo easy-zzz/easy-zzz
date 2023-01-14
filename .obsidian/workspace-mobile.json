@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kks/tb/техника безопасности.md",
+                "file": "kks/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,8 +48,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kks/tb/техника безопасности.md",
-                "mode": "preview",
+                "file": "kks/index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -121,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "kks/tb/техника безопасности.md",
+            "file": "kks/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "kks/tb/техника безопасности.md",
+            "file": "kks/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "kks/tb/техника безопасности.md"
+            "file": "kks/index.md"
           }
         }
       }
@@ -159,12 +159,12 @@
   },
   "active": "77bb0fce9c009e83",
   "lastOpenFiles": [
+    "kks/tb/техника безопасности.md",
     "kks/index .md",
     "kks/index.md",
     "06.01.2023 07:27:13 .md",
     "obsidian/Templater.md",
     "kks/tb/Без названия.md",
-    "kks/tb/техника безопасности.md",
     "docs/babun.md",
     "docs/vs-code/GistPad.md",
     "docs/android/zettel.md",
