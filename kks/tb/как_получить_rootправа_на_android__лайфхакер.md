@@ -79,4 +79,4 @@ Root‑доступ — это возможность работать с кор
 +   [9 причин получить root-права на своём Android-смартфоне](https://lifehacker.ru/root-prava-na-android-smartfone/ "9 причин получить root-права на своём Android-смартфоне")
 +   [10 программ для Android, которых вы должны избегать любой ценой](https://lifehacker.ru/vrednye-programmy-dlya-android/ "10 программ для Android, которых вы должны избегать любой ценой")
 
-[[kks]]
+[[техника безопасности|назад]]
