@@ -1,10 +1,10 @@
 ---
 title: index
-tags: kks
+tags: kks,безопасность,кактус
 author: easy-zzz
 source: 
 ---
-# index  #
+# index
 
 **Hello World!**
 
@@ -12,5 +12,3 @@ source:
 
 - [[техника безопасности]]
 - [[kks/index ]]
-
-#безопасность #кактус
