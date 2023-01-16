@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -40,8 +41,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "1f8713738e100655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,6 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,6 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,13 +149,15 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md"
+          }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "76230cf7ff0d6335",
+  "active": "1f8713738e100655",
   "lastOpenFiles": [
     "docs/ubuntu/tmux command man page.md",
     "docs/ubuntu/Main Linux commands that you will need daily - Like Geeks.md",

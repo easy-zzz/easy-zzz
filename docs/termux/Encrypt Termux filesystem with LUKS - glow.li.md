@@ -21,12 +21,7 @@ Encrypt Termux filesystem with LUKS - glow.li
 [glow.li](https://glow.li/)
 ===========================
 
-× Search requires Javascript  
-[× All Posts](https://glow.li/) [× Technology](https://glow.li/tags/technology/) [× Photography](https://glow.li/tags/photography/) [× Short](https://glow.li/tags/short/) [× About](https://glow.li/about/) [× Feeds](https://glow.li/feeds/) [× Fedi Posts](https://glow.li/fedi/)  
------------------------------------------------------------------------  
-[Technology](https://glow.li/tags/technology/) • [2021-05-10](https://glow.li/posts/encrypt-termux-fs/)  
-[Signed](https://glow.li/posts/encrypt-termux-fs/index.html.asc)
-[![Avatar of glow](https://glow.li/media/images/thumb/Glow-2022-green.webp?chash=977f7)](https://glow.li/about/ "glow/")  
+
 
 [Encrypt Termux filesystem with LUKS](https://glow.li/posts/encrypt-termux-fs/)
 -------------------------------------------------------------------------------
