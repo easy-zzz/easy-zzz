@@ -24,7 +24,8 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "docs"
+      "docs",
+      "docs/termux"
     ]
   },
   "expandedSpaces": [
