@@ -222,10 +222,9 @@ I think this is a really interesting bug. I wrote a detailed bug report here: <h
 I've run into issues using SELinux. It may be necessary to run this command after mounting:
 
 ```sh
+/sbin/su -c "/system/bin/restorecon -R /data/data/com.termux/files"
 ```
-    /sbin/su -c "/system/bin/restorecon -R /data/data/com.termux/files"
-
-If you run into continuing issues, add this to your mounting script (edit the path to `su` as described [here](https://glow.li/#Find+your+su+binary))  
+Если вы столкнетесь с продолжающимися проблемами, добавьте это в свой сценарий монтирования (отредактируйте путь к `su`, как описано [здесь](https://glow.li/#Find+your+su+binary))  
 [#Technology](https://glow.li/tags/technology/) [#Termux](https://glow.li/tags/termux/) [#CLI](https://glow.li/tags/cli/) [#Android](https://glow.li/tags/android/) [#Tutorial](https://glow.li/tags/tutorial/) [#Snippet](https://glow.li/tags/snippet/) [#2021](https://glow.li/tags/2021/)
 
 
