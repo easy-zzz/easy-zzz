@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -45,10 +46,11 @@
             "id": "1f8713738e100655",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "docs"
+                "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -127,6 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,6 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +157,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md"
+          }
         }
       }
     ],
@@ -161,10 +167,10 @@
   },
   "active": "1f8713738e100655",
   "lastOpenFiles": [
+    "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
     "obsidian/docs/Форматирование заметок.md",
     "Форматирование%заметок.md",
     "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
-    "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
     "docs/ubuntu/tmux command man page.md",
     "docs/ubuntu/Main Linux commands that you will need daily - Like Geeks.md",
     "docs/ubuntu/zsh command man page.md",
