@@ -108,9 +108,12 @@ If it is still prompts you for a password you can enter sshd's debug mode with t
 
 The correct permissions are:
 
-        chmod 700 ~
-        chmod 700 ~/.ssh
-        chmod 600 ~/.ssh/*
+```sh
+chmod 700 ~
+chmod 700 ~/.ssh
+chmod 600 ~/.ssh/*
+```
+
 I hope in the future Termux will allow us to register sshd as a proper service which would automatically start on system boot. Right now I have the 'sshd' command in my .bashrc file and I am using [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)to launch Termux after boot. You can also use the [Termux widget](https://play.google.com/store/apps/details?id=com.termux.widget&hl=en) to quickly start sshd with a widget.
 
 See also: [Access the SSH server via USB instead of WiFi](https://glow.li/posts/access-termux-via-usb/)  
