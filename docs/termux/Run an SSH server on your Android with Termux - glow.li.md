@@ -116,7 +116,8 @@ chmod 600 ~/.ssh/*
 
 I hope in the future Termux will allow us to register sshd as a proper service which would automatically start on system boot. Right now I have the 'sshd' command in my .bashrc file and I am using [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)to launch Termux after boot. You can also use the [Termux widget](https://play.google.com/store/apps/details?id=com.termux.widget&hl=en) to quickly start sshd with a widget.
 
-See also: [Access the SSH server via USB instead of WiFi](https://glow.li/posts/access-termux-via-usb/)  
+See also: [Access the SSH server via USB instead of WiFi](https://glow.li/posts/access-te
+/rmux-via-usb/)  
 [#Technology](https://glow.li/tags/technology/) [#Android](https://glow.li/tags/android/) [#Termux](https://glow.li/tags/termux/) [#CLI](https://glow.li/tags/cli/) [#SSH](https://glow.li/tags/ssh/) [#Tutorial](https://glow.li/tags/tutorial/) [#2015](https://glow.li/tags/2015/)
 [\<\< Next](https://glow.li/posts/short-99e3f-disk0s2_io_error_on_Christmas_Eve./) [Previous \>\>](https://glow.li/posts/beats-with-zooper/ "How to get Zooper to display Swatch Internet Time (beats)")  
 -----------------------------------------------------------------------  
