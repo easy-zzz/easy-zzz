@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kks/tb/техника безопасности.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,21 +40,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "77bb0fce9c009e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kks/tb/техника безопасности.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "kks/tb/техника безопасности.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +123,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "kks/tb/техника безопасности.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,18 +133,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "kks/tb/техника безопасности.md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "77bb0fce9c009e83",
+  "active": "09bd18559322ed2d",
   "lastOpenFiles": [
-    "kks/tb/как_получить_rootправа_на_android__лайфхакер.md",
     "kks/tb/техника безопасности.md",
+    "kks/tb/как_получить_rootправа_на_android__лайфхакер.md",
     "Root-права на телефон.md",
     "kks/index .md",
     "docs/android/zettel.md",
