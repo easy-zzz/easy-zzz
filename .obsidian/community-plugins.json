@@ -3,5 +3,6 @@
   "templater-obsidian",
   "obsidian-text-format",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "txt-as-md-obsidian"
 ]
