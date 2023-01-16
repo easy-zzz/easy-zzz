@@ -1,6 +1,6 @@
 ---
 title: 
-tags: gpg,ssh
+tags: termux,cli,android,
 author: easy-zzz
 source: https://glow.li/posts/encrypt-termux-fs/
 ---
