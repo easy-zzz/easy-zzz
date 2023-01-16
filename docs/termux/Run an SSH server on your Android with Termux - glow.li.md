@@ -65,9 +65,11 @@ chmod 600 ~/.ssh/authorized_keys
 chmod 700 ~/.ssh
 ```
    
-If you do not have a OpenSSH key pair yet, you can generate one with the following command:
+Если у вас еще нет пары ключей OpenSSH, вы можете сгенерировать ее с помощью следующей команды:
 
-        ssh-keygen
+```sh
+ssh-keygen
+```
 
 You may or may not enter a passphrase and if you don't specify otherwise, your key pair will have been saved under \~/.ssh/id_rsa and \~/.ssh/id_rsa.pub. You can then add it to the \~/.ssh/authorized_keys with
 
