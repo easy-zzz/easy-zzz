@@ -71,9 +71,9 @@ chmod 700 ~/.ssh
 ssh-keygen
 ```
 
-You may or may not enter a passphrase and if you don't specify otherwise, your key pair will have been saved under \~/.ssh/id_rsa and \~/.ssh/id_rsa.pub. You can then add it to the \~/.ssh/authorized_keys with
+Вы можете вводить или не вводить кодовую фразу, и если вы не укажете иное, ваша пара ключей будет сохранена в  `~/.ssh/id_rsa` и  `~/.ssh/id_rsa.pub`. Затем вы можете добавить его в `~/.ssh/authorized_keys` :
 
-        cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
         chmod 600 ~/.ssh/authorized_keys
 Then you can test it by connecting to your ssh service
 
