@@ -61,12 +61,10 @@ This file will need to be created and permissions set to 600.
 touch ~/.ssh/authorized_keys
 # Установите права доступа к файлу
 chmod 600 ~/.ssh/authorized_keys
+# Убедитесь, что папка .ssh имеет правильные разрешения
+chmod 700 ~/.ssh
 ```
-        
-        
-        
-        # Убедитесь, что папка folder .ssh имеет правильные разрешения
-        chmod 700 ~/.ssh
+   
 If you do not have a OpenSSH key pair yet, you can generate one with the following command:
 
         ssh-keygen
