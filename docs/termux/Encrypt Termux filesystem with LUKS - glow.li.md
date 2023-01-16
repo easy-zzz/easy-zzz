@@ -1,6 +1,6 @@
 ---
 title: 
-tags: termux,cli,android,
+tags: termux,cli,android,tutorial,snippet
 author: easy-zzz
 source: https://glow.li/posts/encrypt-termux-fs/
 ---
