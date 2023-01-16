@@ -78,3 +78,5 @@ Root‑доступ — это возможность работать с кор
 +   [Как перенести данные с Android на Android](https://lifehacker.ru/kak-perenesti-dannye-s-android-na-android/ "Как перенести данные с Android на Android")
 +   [9 причин получить root-права на своём Android-смартфоне](https://lifehacker.ru/root-prava-na-android-smartfone/ "9 причин получить root-права на своём Android-смартфоне")
 +   [10 программ для Android, которых вы должны избегать любой ценой](https://lifehacker.ru/vrednye-programmy-dlya-android/ "10 программ для Android, которых вы должны избегать любой ценой")
+
+[[kks]]
