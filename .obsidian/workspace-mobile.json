@@ -141,7 +141,8 @@
   },
   "active": "09bd18559322ed2d",
   "lastOpenFiles": [
-    "16.01.2023 18:50:49 Encrypt Termux filesystem with LUKS - glow.li.md",
+    "16.01.2023 18:19:01 Run an SSH server on your Android with Termux - glow.li.md",
+    "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
     "kks/tb/техника безопасности.md",
     "kks/tb/как_получить_rootправа_на_android__лайфхакер.md",
     "Root-права на телефон.md",
@@ -149,7 +150,6 @@
     "docs/android/zettel.md",
     "kks/index.md",
     "06.01.2023 07:27:13 .md",
-    "obsidian/Templater.md",
-    "kks/tb/Без названия.md"
+    "obsidian/Templater.md"
   ]
 }
