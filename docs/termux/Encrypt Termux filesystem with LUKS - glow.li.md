@@ -221,10 +221,8 @@ I think this is a really interesting bug. I wrote a detailed bug report here: <h
 
 I've run into issues using SELinux. It may be necessary to run this command after mounting:
 
-
-> [!NOTE] Title
-> Contents
-
+```sh
+```
     /sbin/su -c "/system/bin/restorecon -R /data/data/com.termux/files"
 
 If you run into continuing issues, add this to your mounting script (edit the path to `su` as described [here](https://glow.li/#Find+your+su+binary))  
