@@ -4,7 +4,7 @@ tags: ssh,gpg
 author: easy-zzz
 source: https://glow.li/posts/run-an-ssh-server-on-your-android-with-termux/
 ---
-Run an SSH server on your Android with Termux - glow.li  
+# Run an SSH server on your Android with Termux - glow.li  
 
 ```
   ▁            ▁
@@ -18,18 +18,8 @@ Run an SSH server on your Android with Termux - glow.li
   ▝▀▀▜██████▛▀▀▘
 ```
 
-[glow.li](https://glow.li/)
-===========================
 
-× Search requires Javascript  
-[× All Posts](https://glow.li/) [× Technology](https://glow.li/tags/technology/) [× Photography](https://glow.li/tags/photography/) [× Short](https://glow.li/tags/short/) [× About](https://glow.li/about/) [× Feeds](https://glow.li/feeds/) [× Fedi Posts](https://glow.li/fedi/)  
------------------------------------------------------------------------  
-[Technology](https://glow.li/tags/technology/) • [2015-11-06](https://glow.li/posts/run-an-ssh-server-on-your-android-with-termux/)  
-[Signed](https://glow.li/posts/run-an-ssh-server-on-your-android-with-termux/index.html.asc)
-[![Avatar of glow](https://glow.li/media/images/thumb/Glow-2022-green.webp?chash=977f7)](https://glow.li/about/ "glow/")  
-
-[Run an SSH server on your Android with Termux](https://glow.li/posts/run-an-ssh-server-on-your-android-with-termux/)
----------------------------------------------------------------------------------------------------------------------
+## Run an SSH server on your Android with Termux
 
 With the brilliant [Termux](https://termux.com/) terminal emulator app you can run an SSH server on your Android.
 
