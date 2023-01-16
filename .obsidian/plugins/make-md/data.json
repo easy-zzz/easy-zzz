@@ -22,7 +22,11 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "/": [
+      "docs"
+    ]
+  },
   "expandedSpaces": [
     null,
     "/"

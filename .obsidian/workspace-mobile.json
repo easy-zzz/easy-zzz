@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
+                "file": "Без названия.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
+                "file": "Без названия.md",
                 "mode": "preview",
                 "source": false
               }
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
+            "file": "Без названия.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
+            "file": "Без названия.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/termux/Run an SSH server on your Android with Termux - glow.li.md"
+            "file": "Без названия.md"
           }
         }
       }
@@ -167,10 +167,10 @@
   },
   "active": "1f8713738e100655",
   "lastOpenFiles": [
+    "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
     "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
     "obsidian/docs/Форматирование заметок.md",
     "Форматирование%заметок.md",
-    "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
     "docs/ubuntu/tmux command man page.md",
     "docs/ubuntu/Main Linux commands that you will need daily - Like Geeks.md",
     "docs/ubuntu/zsh command man page.md",
