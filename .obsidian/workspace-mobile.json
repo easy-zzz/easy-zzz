@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kks/index .md",
+                "file": "kks/tb/техника безопасности.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kks/index .md",
+                "file": "kks/tb/техника безопасности.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "kks/index .md",
+            "file": "kks/tb/техника безопасности.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "kks/index .md",
+            "file": "kks/tb/техника безопасности.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -150,17 +150,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "kks/index .md"
+            "file": "kks/tb/техника безопасности.md"
           }
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 2
   },
-  "active": "77bb0fce9c009e83",
+  "active": "5e9c7c6805066bcd",
   "lastOpenFiles": [
-    "docs/android/zettel.md",
     "kks/index .md",
+    "docs/android/zettel.md",
     "kks/tb/техника безопасности.md",
     "kks/index.md",
     "06.01.2023 07:27:13 .md",
