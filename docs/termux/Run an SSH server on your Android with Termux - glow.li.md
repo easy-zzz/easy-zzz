@@ -73,9 +73,12 @@ ssh-keygen
 
 Вы можете вводить или не вводить кодовую фразу, и если вы не укажете иное, ваша пара ключей будет сохранена в  `~/.ssh/id_rsa` и  `~/.ssh/id_rsa.pub`. Затем вы можете добавить его в `~/.ssh/authorized_keys` :
 
+```sh
 cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
-        chmod 600 ~/.ssh/authorized_keys
-Then you can test it by connecting to your ssh service
+chmod 600 ~/.ssh/authorized_keys
+```
+
+Затем вы можете протестировать его, подключившись к своему ssh-сервису
 
         # -i $PATH_TO_FILE/filename is only required if the id_rsa file is not ~/.ssh/id_rsa
         ssh localhost -p 8022 -i %PATH_TO_KEY-FILE%/%NAME_OF_KEY%
