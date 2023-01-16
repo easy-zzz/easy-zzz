@@ -21,7 +21,7 @@ source: https://glow.li/posts/run-an-ssh-server-on-your-android-with-termux/
 
 ## Run an SSH server on your Android with Termux
 
-With the brilliant [Termux](https://termux.com/) terminal emulator app you can run an SSH server on your Android. 
+With the brilliant [Termux](https://wiki.termux.com/wiki/Termux_Wiki_(%D0%BD%D0%B0_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC) terminal emulator app you can run an SSH server on your Android. 
 
 Previously I used [SSHDroid](https://play.google.com/store/apps/details?id=berserker.android.apps.sshdroid) to achieve this, but with Termux is much nicer because you have access to a working package manager.
 
