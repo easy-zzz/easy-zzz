@@ -1,5 +1,5 @@
 ---
-tags: tutorial, markdown android
+tags: tutorial, markdown, android
 author: easy-zzz
 ---
 # Вступление
