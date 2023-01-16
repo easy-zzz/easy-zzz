@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "16.01.2023 18:50:49 Encrypt Termux filesystem with LUKS - glow.li.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,21 +40,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "7f8d3bbf4a49c64a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.01.2023 18:50:49 Encrypt Termux filesystem with LUKS - glow.li.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "16.01.2023 18:50:49 Encrypt Termux filesystem with LUKS - glow.li.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +123,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "16.01.2023 18:50:49 Encrypt Termux filesystem with LUKS - glow.li.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,16 +133,15 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "16.01.2023 18:50:49 Encrypt Termux filesystem with LUKS - glow.li.md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "7f8d3bbf4a49c64a",
+  "active": "09bd18559322ed2d",
   "lastOpenFiles": [
+    "16.01.2023 18:50:49 Encrypt Termux filesystem with LUKS - glow.li.md",
     "kks/tb/техника безопасности.md",
     "kks/tb/как_получить_rootправа_на_android__лайфхакер.md",
     "Root-права на телефон.md",
@@ -167,7 +150,6 @@
     "kks/index.md",
     "06.01.2023 07:27:13 .md",
     "obsidian/Templater.md",
-    "kks/tb/Без названия.md",
-    "docs/babun.md"
+    "kks/tb/Без названия.md"
   ]
 }
