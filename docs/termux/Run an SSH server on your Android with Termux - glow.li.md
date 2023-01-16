@@ -49,9 +49,11 @@ apt install openssh
 sshd
 ```
 
-And there you go. Your ssh service is now running on port 8022.
+И вот ты здесь. Ваша служба ssh теперь запущена на порту 8022.
 
-        ssh localhost -p 8022
+```sh
+ssh localhost -p 8022
+```
 
 Adding your Public key
 ----------------------
