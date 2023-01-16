@@ -39,11 +39,15 @@ Previously I used [SSHDroid](https://play.google.com/store/apps/details?id=berse
 
 Вам необходимо установить пакет OpenSSH
 
+```sh
 apt install openssh
+```
 
-and use following command to start the ssh server.
+и используйте следующую команду для запуска ssh-сервера.
 
-        sshd
+```sh
+sshd
+```
 
 And there you go. Your ssh service is now running on port 8022.
 
