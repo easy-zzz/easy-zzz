@@ -57,7 +57,10 @@ You can't do password authentication in Termux, therefore you need to put your O
 
 This file will need to be created and permissions set to 600.
 
-        touch ~/.ssh/authorized_keys
+```sh
+touch ~/.ssh/authorized_keys
+```
+        
         # Set Permissions to the file
         chmod 600 ~/.ssh/authorized_keys
         # Make sure the folder .ssh folder has the correct permissions
