@@ -49,7 +49,7 @@
               "type": "markdown",
               "state": {
                 "file": "obsidian/docs/Форматирование заметок.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,6 +159,8 @@
   },
   "active": "1f8713738e100655",
   "lastOpenFiles": [
+    "Форматирование%заметок.md",
+    "obsidian/docs/Форматирование заметок.md",
     "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
     "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
     "docs/ubuntu/tmux command man page.md",
@@ -166,8 +168,6 @@
     "docs/ubuntu/zsh command man page.md",
     "docs/python/Create your first Python web crawler using Scrapy - Like Geeks.md",
     "docs/vim/Автокоманды в Vi и Vim.md",
-    "06.01.2023 07:27:13 .md",
-    "06.01.2023 07:49:29 .md",
-    "06.01.2023 08:05:13 .md"
+    "06.01.2023 07:27:13 .md"
   ]
 }
