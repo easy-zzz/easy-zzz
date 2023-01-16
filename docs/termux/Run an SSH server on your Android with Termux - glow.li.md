@@ -59,11 +59,13 @@ This file will need to be created and permissions set to 600.
 
 ```sh
 touch ~/.ssh/authorized_keys
+# Установите права доступа к файлу
+chmod 600 ~/.ssh/authorized_keys
 ```
         
-        # Set Permissions to the file
-        chmod 600 ~/.ssh/authorized_keys
-        # Make sure the folder .ssh folder has the correct permissions
+        
+        
+        # Убедитесь, что папка folder .ssh имеет правильные разрешения
         chmod 700 ~/.ssh
 If you do not have a OpenSSH key pair yet, you can generate one with the following command:
 
