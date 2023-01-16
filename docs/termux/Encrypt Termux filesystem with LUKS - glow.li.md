@@ -225,7 +225,7 @@ I've run into issues using SELinux. It may be necessary to run this command afte
 
 If you run into continuing issues, add this to your mounting script (edit the path to `su` as described [here](https://glow.li/#Find+your+su+binary))  
 [#Technology](https://glow.li/tags/technology/) [#Termux](https://glow.li/tags/termux/) [#CLI](https://glow.li/tags/cli/) [#Android](https://glow.li/tags/android/) [#Tutorial](https://glow.li/tags/tutorial/) [#Snippet](https://glow.li/tags/snippet/) [#2021](https://glow.li/tags/2021/)
-[\<\< Next](https://glow.li/posts/ksp-f18/ "Kerbal Space Program: F/A 18") [Previous \>\>](https://glow.li/posts/global-push-to-talk/ "Global push to talk with i3 and pulseaudio")  
+
 -----------------------------------------------------------------------  
 A blog by [glow](https://glow.li/about/).
 Madeon[Termux](https://termux.com).  
