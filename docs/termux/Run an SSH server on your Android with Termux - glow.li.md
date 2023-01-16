@@ -35,12 +35,11 @@ With the brilliant [Termux](https://termux.com/) terminal emulator app you can r
 
 Previously I used [SSHDroid](https://play.google.com/store/apps/details?id=berserker.android.apps.sshdroid) to achieve this, but with Termux is much nicer because you have access to a working package manager.
 
-Run the service
----------------
+## Запустите службу
 
-You need to install the OpenSSH package
+Вам необходимо установить пакет OpenSSH
 
-        apt install openssh
+apt install openssh
 
 and use following command to start the ssh server.
 
