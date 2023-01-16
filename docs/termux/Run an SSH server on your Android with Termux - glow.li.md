@@ -57,9 +57,9 @@ ssh localhost -p 8022
 
 ## Добавление вашего открытого ключа
 
-You can't do password authentication in Termux, therefore you need to put your OpenSSH public key into the `~/.ssh/authorized_keys` file.
+Вы не можете выполнить аутентификацию по паролю в Termux, поэтому вам необходимо поместить свой открытый ключ OpenSSH в файл `~/.ssh/authorized_keys`.
 
-This file will need to be created and permissions set to 600.
+Этот файл необходимо будет создать и установить разрешения на 600.
 
 ```sh
 touch ~/.ssh/authorized_keys
