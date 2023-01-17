@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templater/Без названия.md",
+                "file": "templater/srartup.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templater/Без названия.md",
+                "file": "templater/srartup.md",
                 "mode": "source",
                 "source": false
               },
@@ -145,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templater/Без названия.md",
+            "file": "templater/srartup.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templater/Без названия.md",
+            "file": "templater/srartup.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -174,7 +174,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templater/Без названия.md"
+            "file": "templater/srartup.md"
           }
         }
       }
