@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templater/base.md",
+                "file": "docs/termux/termux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/termux/termux.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -91,13 +91,13 @@
               "type": "markdown",
               "state": {
                 "file": "templater/base.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templater/base.md",
+            "file": "docs/termux/termux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templater/base.md",
+            "file": "docs/termux/termux.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -200,18 +200,18 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templater/base.md"
+            "file": "docs/termux/termux.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "20b08d908bcb8553",
+  "active": "0362ba5b9abef3aa",
   "lastOpenFiles": [
+    "templater/base.md",
     "2023-01-17.md",
     "docs/termux/termux.md",
-    "templater/base.md",
     "templater/srartup.md",
     "Без названия.md",
     "obsidian/docs/Форматирование заметок.md",
