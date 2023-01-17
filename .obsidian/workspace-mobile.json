@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Без названия.md",
+                "file": "templater/srartup.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Без названия.md",
+            "file": "templater/srartup.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Без названия.md",
+            "file": "templater/srartup.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -200,21 +200,21 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Без названия.md"
+            "file": "templater/srartup.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "20b08d908bcb8553",
+  "active": "1f8713738e100655",
   "lastOpenFiles": [
     "templater/base.md",
+    "Без названия.md",
     "obsidian/docs/Форматирование заметок.md",
     "templater/srartup.md",
     "obsidian/Templater.md",
     "docs/termux/termux.md",
-    "Без названия.md",
     "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
     "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
     "Форматирование%заметок.md",
