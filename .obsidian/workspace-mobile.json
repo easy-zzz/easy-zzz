@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/termux/termux.md",
+                "file": "templater/base.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -69,9 +69,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "71f15b651520d1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templater/base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/termux/termux.md",
+            "file": "templater/base.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/termux/termux.md",
+            "file": "templater/base.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -174,19 +186,19 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/termux/termux.md"
+            "file": "templater/base.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "0362ba5b9abef3aa",
+  "active": "71f15b651520d1b2",
   "lastOpenFiles": [
-    "templater/base.md",
-    "docs/termux/termux.md",
-    "2023-01-17.md",
     "templater/srartup.md",
+    "docs/termux/termux.md",
+    "templater/base.md",
+    "2023-01-17.md",
     "Без названия.md",
     "obsidian/docs/Форматирование заметок.md",
     "obsidian/Templater.md",
