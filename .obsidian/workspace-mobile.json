@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templater/srartup.md",
+                "file": "docs/termux/termux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templater/srartup.md",
+            "file": "docs/termux/termux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templater/srartup.md",
+            "file": "docs/termux/termux.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -186,18 +186,18 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templater/srartup.md"
+            "file": "docs/termux/termux.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "1f8713738e100655",
+  "active": "0362ba5b9abef3aa",
   "lastOpenFiles": [
+    "templater/srartup.md",
     "templater/base.md",
     "docs/termux/termux.md",
-    "templater/srartup.md",
     "2023-01-17.md",
     "Без названия.md",
     "obsidian/docs/Форматирование заметок.md",
