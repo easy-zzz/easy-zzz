@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/termux/termux.md",
+                "file": "templater/base.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/termux/termux.md",
+            "file": "templater/base.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/termux/termux.md",
+            "file": "templater/base.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -174,17 +174,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/termux/termux.md"
+            "file": "templater/base.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "0362ba5b9abef3aa",
+  "active": "1f8713738e100655",
   "lastOpenFiles": [
-    "templater/base.md",
     "docs/termux/termux.md",
+    "templater/base.md",
     "Без названия.md",
     "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
     "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
