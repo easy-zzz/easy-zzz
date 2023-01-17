@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Без названия 1.md",
+                "file": "Без названия.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия 1.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Без названия 1.md",
+            "file": "Без названия.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Без названия 1.md",
+            "file": "Без названия.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -186,7 +186,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Без названия 1.md"
+            "file": "Без названия.md"
           }
         }
       }
@@ -195,6 +195,7 @@
   },
   "active": "71f15b651520d1b2",
   "lastOpenFiles": [
+    "Без названия 1.md",
     "2023-01-17.md",
     "templater/base.md",
     "docs/termux/termux.md",
@@ -203,7 +204,6 @@
     "obsidian/docs/Форматирование заметок.md",
     "obsidian/Templater.md",
     "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
-    "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
-    "Форматирование%заметок.md"
+    "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md"
   ]
 }
