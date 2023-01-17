@@ -1,5 +1,5 @@
 function my_function (msg) {
-    return `Message from my script: ${msg}`;
+    return `Сообщение от моего скрипта: ${msg}`;
 }
 module.exports = my_function;
 
