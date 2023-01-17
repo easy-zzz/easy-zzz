@@ -4,4 +4,4 @@
 link: <% tp.file.cursor() %>
 ---
 
-# <% tp.file %>
+# <% tp.file.cursor_append(content: ) %>
