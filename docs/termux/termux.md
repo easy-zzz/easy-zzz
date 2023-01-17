@@ -1,3 +1,3 @@
 ---
-link: tp.file.cursor(1)
+link: 
 ---
