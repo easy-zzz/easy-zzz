@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "/",
+      "template": "templater/srartup.md"
     }
   ],
   "syntax_highlighting": true,
