@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templater/base.md",
+                "file": "docs/termux/termux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -45,17 +45,33 @@
           {
             "id": "1f8713738e100655",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "templater/base.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0362ba5b9abef3aa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/termux/termux.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templater/base.md",
+            "file": "docs/termux/termux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templater/base.md",
+            "file": "docs/termux/termux.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,18 +174,18 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templater/base.md"
+            "file": "docs/termux/termux.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "1f8713738e100655",
+  "active": "0362ba5b9abef3aa",
   "lastOpenFiles": [
+    "templater/base.md",
     "Без названия.md",
     "docs/termux/termux.md",
-    "templater/base.md",
     "docs/termux/Run an SSH server on your Android with Termux - glow.li.md",
     "docs/termux/Encrypt Termux filesystem with LUKS - glow.li.md",
     "obsidian/docs/Форматирование заметок.md",
