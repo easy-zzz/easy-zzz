@@ -64,22 +64,10 @@
               "type": "markdown",
               "state": {
                 "file": "docs/termux/termux.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "20b08d908bcb8553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templater/base.md",
-                "mode": "preview",
-                "source": false
-              }
             }
           }
         ],
