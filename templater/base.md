@@ -4,5 +4,4 @@
 link: <% tp.file.cursor() %>
 ---
 
-# {{title}}
-[[]]
+# title}}
