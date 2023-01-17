@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templater/srartup.md",
+                "file": "obsidian/Templater.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -69,9 +69,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4445b7355f9a74f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/Templater.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templater/srartup.md",
+            "file": "obsidian/Templater.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templater/srartup.md",
+            "file": "obsidian/Templater.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -174,15 +186,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templater/srartup.md"
+            "file": "obsidian/Templater.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "1f8713738e100655",
+  "active": "4445b7355f9a74f6",
   "lastOpenFiles": [
+    "templater/srartup.md",
     "templater/base.md",
     "docs/termux/termux.md",
     "Без названия.md",
@@ -191,7 +204,6 @@
     "obsidian/docs/Форматирование заметок.md",
     "Форматирование%заметок.md",
     "docs/ubuntu/tmux command man page.md",
-    "docs/ubuntu/Main Linux commands that you will need daily - Like Geeks.md",
-    "docs/ubuntu/zsh command man page.md"
+    "docs/ubuntu/Main Linux commands that you will need daily - Like Geeks.md"
   ]
 }
