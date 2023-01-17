@@ -1,0 +1,111 @@
+--- old
++++ new
+@@ -7,1 +7,1 @@
+-Run an SSH server on your Android with Termux - glow.li  
++# Run an SSH server on your Android with Termux - glow.li  
+@@ -21,2 +21,0 @@
+-[glow.li](https://glow.li/)
+-===========================
+@@ -24,6 +22,1 @@
+-× Search requires Javascript  
+-[× All Posts](https://glow.li/) [× Technology](https://glow.li/tags/technology/) [× Photography](https://glow.li/tags/photography/) [× Short](https://glow.li/tags/short/) [× About](https://glow.li/about/) [× Feeds](https://glow.li/feeds/) [× Fedi Posts](https://glow.li/fedi/)  
+------------------------------------------------------------------------  
+-[Technology](https://glow.li/tags/technology/) • [2015-11-06](https://glow.li/posts/run-an-ssh-server-on-your-android-with-termux/)  
+-[Signed](https://glow.li/posts/run-an-ssh-server-on-your-android-with-termux/index.html.asc)
+-[![Avatar of glow](https://glow.li/media/images/thumb/Glow-2022-green.webp?chash=977f7)](https://glow.li/about/ "glow/")  
++## Run an SSH server on your Android with Termux
+@@ -31,2 +24,2 @@
+-[Run an SSH server on your Android with Termux](https://glow.li/posts/run-an-ssh-server-on-your-android-with-termux/)
+----------------------------------------------------------------------------------------------------------------------
++С блестящим [Termux](https://wiki.termux.com/wiki/Termux_Wiki_(%D0%BD%D0%B0_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC)) приложение-эмулятор терминала вы можете запустить SSH-сервер на своем Android.
++%%https://wiki.termux.com/wiki/Termux_Wiki_(%D0%BD%D0%B0_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC)%%
+@@ -34,2 +27,0 @@
+-With the brilliant [Termux](https://termux.com/) terminal emulator app you can run an SSH server on your Android.
+-
+@@ -38,2 +29,1 @@
+-Run the service
+----------------
++## Запустите службу
+@@ -41,1 +31,1 @@
+-You need to install the OpenSSH package
++Вам необходимо установить пакет OpenSSH
+@@ -43,1 +33,3 @@
+-        apt install openssh
++```sh
++apt install openssh
++```
+@@ -45,1 +37,1 @@
+-and use following command to start the ssh server.
++и используйте следующую команду для запуска ssh-сервера.
+@@ -47,1 +39,3 @@
+-        sshd
++```sh
++sshd
++```
+@@ -49,1 +43,1 @@
+-And there you go. Your ssh service is now running on port 8022.
++И вот ты здесь. Ваша служба ssh теперь запущена на порту 8022.
+@@ -51,1 +45,3 @@
+-        ssh localhost -p 8022
++```sh
++ssh localhost -p 8022
++```
+@@ -53,2 +49,1 @@
+-Adding your Public key
+-----------------------
++## Добавление вашего открытого ключа
+@@ -56,1 +51,1 @@
+-You can't do password authentication in Termux, therefore you need to put your OpenSSH public key into the \~/.ssh/authorized_keys file.
++Вы не можете выполнить аутентификацию по паролю в Termux, поэтому вам необходимо поместить свой открытый ключ OpenSSH в файл `~/.ssh/authorized_keys`.
+@@ -58,1 +53,1 @@
+-This file will need to be created and permissions set to 600.
++Этот файл необходимо будет создать и установить разрешения на 600.
+@@ -60,6 +55,9 @@
+-        touch ~/.ssh/authorized_keys
+-        # Set Permissions to the file
+-        chmod 600 ~/.ssh/authorized_keys
+-        # Make sure the folder .ssh folder has the correct permissions
+-        chmod 700 ~/.ssh
+-If you do not have a OpenSSH key pair yet, you can generate one with the following command:
++```sh
++touch ~/.ssh/authorized_keys
++# Установите права доступа к файлу
++chmod 600 ~/.ssh/authorized_keys
++# Убедитесь, что папка .ssh имеет правильные разрешения
++chmod 700 ~/.ssh
++```
++   
++Если у вас еще нет пары ключей OpenSSH, вы можете сгенерировать ее с помощью следующей команды:
+@@ -67,1 +65,3 @@
+-        ssh-keygen
++```sh
++ssh-keygen
++```
+@@ -69,1 +69,1 @@
+-You may or may not enter a passphrase and if you don't specify otherwise, your key pair will have been saved under \~/.ssh/id_rsa and \~/.ssh/id_rsa.pub. You can then add it to the \~/.ssh/authorized_keys with
++Вы можете вводить или не вводить кодовую фразу, и если вы не укажете иное, ваша пара ключей будет сохранена в  `~/.ssh/id_rsa` и  `~/.ssh/id_rsa.pub`. Затем вы можете добавить его в `~/.ssh/authorized_keys` :
+@@ -71,3 +71,4 @@
+-        cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+-        chmod 600 ~/.ssh/authorized_keys
+-Then you can test it by connecting to your ssh service
++```sh
++cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
++chmod 600 ~/.ssh/authorized_keys
++```
+@@ -75,0 +76,2 @@
++Затем вы можете протестировать его, подключившись к своему ssh-сервису
++
+@@ -108,3 +111,6 @@
+-        chmod 700 ~
+-        chmod 700 ~/.ssh
+-        chmod 600 ~/.ssh/*
++```sh
++chmod 700 ~
++chmod 700 ~/.ssh
++chmod 600 ~/.ssh/*
++```
++
+@@ -113,1 +119,2 @@
+-See also: [Access the SSH server via USB instead of WiFi](https://glow.li/posts/access-termux-via-usb/)  
++See also: [Access the SSH server via USB instead of WiFi](https://glow.li/posts/access-te
++/rmux-via-usb/)  

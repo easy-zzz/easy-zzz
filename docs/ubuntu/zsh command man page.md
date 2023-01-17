@@ -1,6 +1,6 @@
 ---
 title: 
-tags: 
+tags: man
 author: easy-zzz
 source: https://www.mankier.com/1/zsh
 ---
