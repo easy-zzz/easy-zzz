@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/termux/termux.md",
+                "file": "templater/srartup.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -77,13 +77,13 @@
               "type": "markdown",
               "state": {
                 "file": "templater/base.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/termux/termux.md",
+            "file": "templater/srartup.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/termux/termux.md",
+            "file": "templater/srartup.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -186,14 +186,14 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/termux/termux.md"
+            "file": "templater/srartup.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "76230cf7ff0d6335",
+  "active": "1f8713738e100655",
   "lastOpenFiles": [
     "templater/base.md",
     "docs/termux/termux.md",
