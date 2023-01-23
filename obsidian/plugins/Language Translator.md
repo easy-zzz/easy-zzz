@@ -30,12 +30,12 @@ link: "https://github.com/twentytwokhz/language-translator"
 
 # Language Translator
 
-An Obsidian plugin to translate selected text in the desired language.
+Плагин Obsidian для перевода выделенного текста на нужный язык.
 
 ## About The Project
 
-This plugin allows you to translate selected text into the desired language.
-It's based on a free instance of Azure Translator. Please do not abuse it :)
+Этот плагин позволяет перевести выделенный текст на нужный язык.
+Он основан на бесплатном экземпляре Переводчика Azure. Пожалуйста, не злоупотребляйте им :)
 
 _Word of advice_
 
@@ -44,7 +44,7 @@ PS: If you have recommendations please see the [Contributing](##Contributing) se
 
 ## Installing
 
-Find this plugin in the listing of community plugins in Obsidian and add it to your application.
+Найдите этот плагин в списке плагинов сообщества в Obsidian и добавьте его в свое приложение.
 
 Or, if you'd like to install it manually, clone this repository to the `.obsidian/plugins/` directory in your vault, navigate to your newly cloned folder, run `npm i` or `yarn` to install dependencies, and run `npm run build` or `yarn build` to compile the plugin.
 
