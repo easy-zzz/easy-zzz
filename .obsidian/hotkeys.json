@@ -1,1 +1,17 @@
-{}
+{
+  "language-translator:language-translator-editor-command": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "R"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ]
+}
