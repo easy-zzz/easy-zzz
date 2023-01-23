@@ -2,6 +2,7 @@
   "pinned": [
     "editor:insert-callout",
     "editor:save-file",
-    "obsidian-text-format:text-format-merge-line"
+    "obsidian-text-format:text-format-merge-line",
+    "extract-url:extract-url"
   ]
 }
