@@ -27,6 +27,5 @@
     "obsidian-git:view-history-on-github"
   ],
   "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Вложения"
+  "alwaysUpdateLinks": true
 }
