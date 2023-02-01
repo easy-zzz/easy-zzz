@@ -6,9 +6,10 @@ title: if - conditionally execute a command
 
 <div class="synopsis">
 
-```
-if CONDITION; COMMANDS_TRUE ...; \[else if CONDITION2; COMMANDS_TRUE2
-...;\] \[else; COMMANDS_FALSE ...;\] end
+```shell
+if CONDITION; COMMANDS_TRUE ...; 
+[else if CONDITION2; COMMANDS_TRUE2...;] 
+[else; COMMANDS_FALSE ...;] end
 ```
 
 </div>
