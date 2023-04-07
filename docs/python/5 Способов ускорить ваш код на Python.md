@@ -31,7 +31,12 @@ print(time.time() - start, "секунд")
 ```python
 # бытрый
 
-
+start = time.time() 
+ 
+word_list = ['Ways', 'to', 'Make', 'Your', 'Python', 'Code', 'Faster']  
+new_list = list(map(str.capitalize, word_list)) 
+ 
+print(time.time() - start, "секунд") 
 ```
 ## Объединение строк против join()
 
