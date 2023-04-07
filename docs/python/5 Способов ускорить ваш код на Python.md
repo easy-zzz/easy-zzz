@@ -18,14 +18,21 @@ import time
 # Медленный:
  
 start = time.time() 
- 
+
+word_list = ['Ways', 'to', 'Make', 'Your', 'Python', 'Code', 'Faster'] 
 new_list = [] 
+
 for word in word_list: 
     new_list.append(word.capitalize()) 
      
-print(time.time() - start, "seconds")
+print(time.time() - start, "секунд")
 ```
 
+```python
+# бытрый
+
+
+```
 ## Объединение строк против join()
 
 ## Быстрее создавайте списки и словари
