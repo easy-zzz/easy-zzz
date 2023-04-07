@@ -5,5 +5,5 @@
 
 # 5 Способов ускорить ваш код на Python
 
-> Where there is charity and wisdom, there is neither fear nor ignorance.
+> Там, где есть милосердие и мудрость, нет ни страха, ни невежества.
 > — <cite>Francis of Assisi</cite>
