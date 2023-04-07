@@ -25,7 +25,8 @@ new_list = []
 for word in word_list: 
     new_list.append(word.capitalize())
 ```
-```
+
+```python
 print(time.time() - start, "секунд")
 ```
 
