@@ -1,0 +1,9 @@
+---
+дата создания: 2023-04-07 17:07
+дата изменений: пятница 7-го апреля 2023 17:07:43
+---
+
+# 5 Способов ускорить ваш код на Python
+
+> Where there is charity and wisdom, there is neither fear nor ignorance.
+> — <cite>Francis of Assisi</cite>
